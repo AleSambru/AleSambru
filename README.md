@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AleSambru
-- 👀 I’m interested in Physics and Computational Physics
+- 👀 I’m interested in physics and biophysics
 - ✨ I'm currently learing Python and perfecting my skils in C++
 
 <!---
