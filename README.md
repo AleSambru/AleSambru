@@ -9,7 +9,7 @@ I am a Master’s student in Physics at the University of Milan, with a focus on
 
 ### Technical Skills
 - **Programming:** Currently improving proficiency in **C++** and **Python** for scientific computing and simulation  
-- **Methods:** Differential equation modeling, numerical simulation, and data analysis
+- **Methods:** numerical simulation, and data analysis
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/alessia-sambruna/?locale=en_US)
