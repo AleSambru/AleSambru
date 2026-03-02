@@ -1,6 +1,6 @@
 👋 Hi, I’m @AleSambru
 
-I am a Master’s student in Physics at the University of Milan, with a focus on Biophysics and Systems Biology. I am currently developing my Master’s thesis at IFOM (Milan). My interests center on quantitative approaches to biological complexity and the modeling of emergent behavior in living systems.
+I am a Master’s student in Physics at the University of Milan, with a focus on Biophysics and Systems Biology. I am currently developing my Master’s thesis at IFOM (Milan). My interests center on data-driven modeling of regulatory and growth dynamics in cellular systems. I aim to integrate quantitative experiments with mechanistic modeling of emergent behavior in living systems.
 
 ### Research Interests
 - Biophysics of molecular and cellular systems  
