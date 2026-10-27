@@ -1,11 +1,11 @@
 👋 Hi, I’m @AleSambru
 
-I am a Master’s student in Physics at the University of Milan, with a focus on Biophysics and Systems Biology. I am currently developing my Master’s thesis at IFOM (Milan). My interests center on data-driven modeling of regulatory and growth dynamics in cellular systems. I aim to integrate quantitative experiments with mechanistic modeling of emergent behavior in living systems.
+I am a PhD student at the University of Montpellier
 
-### Research Interests
-- Biophysics of molecular and cellular systems  
-- Systems biology and regulatory network dynamics  
-- Statistical mechanics applied to biological organization  
+### Research interests
+- Statistical mechanics applied to biological organization
+- Quantitative cellular physiology: growth laws, maintenance and
+  resource allocation in bacteria (E. coli)
 
 ### Technical Skills
 - **Programming:** Currently improving proficiency in **C++** and **Python** for scientific computing and simulation  
